@@ -31,9 +31,6 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: sv.Deepika
 RegisterNumber:  212220040161
 /*
-Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by:N.Yasaswini 
-RegisterNumber:212220040095
 import pandas as pd
 data=pd.read_csv("Placement_Data.csv")
 data.head()
